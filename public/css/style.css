@@ -1,0 +1,28 @@
+#login{
+    display: flex;
+    align-items: center;
+    height: 100vh;
+}
+#login h2{
+    text-align: center;
+}
+#login p{
+    text-align: center;
+    margin: 10px;
+}
+#header{
+    background: rgb(38, 40, 39);
+    padding: 15px 0;
+}
+#header h4{
+    color: white;
+}
+#header button{
+    float: right;
+}
+#blog p{
+    text-align: justify;
+}
+#blog h2{
+    text-align: center;
+}

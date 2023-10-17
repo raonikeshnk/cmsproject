@@ -1,0 +1,2 @@
+font-family: 'Borel', cursive;
+font-family: 'Lobster', cursive;

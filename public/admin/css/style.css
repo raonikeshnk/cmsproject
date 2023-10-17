@@ -1,0 +1,10 @@
+#header{
+    background: rgb(38, 40, 39);
+    padding: 15px 0;
+}
+#header h4{
+    color: white;
+}
+#header button{
+    float: right;
+}
